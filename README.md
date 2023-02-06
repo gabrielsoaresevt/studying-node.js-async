@@ -1,4 +1,4 @@
-# Rocketseat - Discover | Node.JS
+# Rocketseat - Discover
 Estudando assincronismo, process.stdout e process.stdin no Node.JS.
 
 ## 🛠 Execução
